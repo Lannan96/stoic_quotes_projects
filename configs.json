@@ -1,0 +1,15 @@
+{
+	"quotes_length": 0,
+	"current_quote_number": 0,
+	"contact_numbers": [
+		{
+			"number": "1234567890",
+			"contact_name": "John Doe"
+		},
+		{
+			"number": "0987654321",
+			"contact_name": "Jane Doe"
+		}
+	]
+
+}
