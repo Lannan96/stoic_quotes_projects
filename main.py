@@ -8,7 +8,7 @@ from quotes import Quotes
 configs = Configs()
 
 # add contact numbers to the config file
-configs.add_contact_numbers('07904818817', 'Lewis')
+configs.add_contact_numbers('11111111', 'Test')
 
 # print the contact numbers
 for number, name in configs.get_contact_numbers().items():
